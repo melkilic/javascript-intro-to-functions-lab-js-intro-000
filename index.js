@@ -15,3 +15,7 @@ function whisper(string){
   if(string===string.toLowerCase);
  return string = "I can\'t hear you!"
 }
+function sayHiToGrandma(string){
+ if(string===string.toUpperCase);
+return string = "YES INDEED!"
+}
