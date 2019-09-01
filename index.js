@@ -19,4 +19,3 @@ function whisper(string){
 console.log(string.toLowerCase());
 return "YES INDEED!" ;
   }
-
