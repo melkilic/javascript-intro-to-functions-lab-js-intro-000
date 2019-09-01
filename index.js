@@ -16,6 +16,6 @@ function whisper(string){
   return "I can\'t hear you!" ;
  }
   function sayHiToGrandma(string){
-console.log(string.toUpperCase());
+if(string===string.toUpperCase());
 return "YES INDEED!" ;
   }
