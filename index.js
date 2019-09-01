@@ -15,5 +15,3 @@ function whisper(string){
   if(string===string.toLowerCase);
   return string "I can\'t hear you!" ;
 }
- 
-
