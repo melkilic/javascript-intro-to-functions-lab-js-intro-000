@@ -18,3 +18,4 @@ function whisper(string){
   function sayHiToGrandma(string){
 
   }
+console.log(string.toUpperCase());
